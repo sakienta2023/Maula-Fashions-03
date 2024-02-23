@@ -176,6 +176,7 @@ li {
 
 .nav-center .hamburger {
   display: block;
+  font-size: 3rem;
 }
 
 .icons {
@@ -184,4 +185,13 @@ li {
 
 .nav-list .icons {
   display: flex;
+}
+
+.top-nav ul {
+  display: none;
+}
+
+.top-nav {
+  justify-content: center;
+  height: 3rem;
 }
