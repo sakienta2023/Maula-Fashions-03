@@ -166,5 +166,22 @@ li {
 
 .nav-list .nav-item {
   margin: 0 0 1rem 0;
+  width: 100%;
 }
 
+.nav-list .nav-link {
+  font-size: 2rem;
+  color: var(--black);
+}
+
+.nav-center .hamburger {
+  display: block;
+}
+
+.icons {
+  display: none;
+}
+
+.nav-list .icons {
+  display: flex;
+}
