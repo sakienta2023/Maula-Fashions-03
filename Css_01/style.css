@@ -90,15 +90,11 @@ li {
 
 .nav-center  .nav-item:not(:last-child) {
   margin-right: 0.5rem;
-/*  background-color: blue; */ /* Test declaration */
-  /* review target */
 }
 
 .nav-center  .nav-link {
   font-size: 1.8rem;
   padding: 1rem;
- /*  background-color: pink; test declaration  */
-  /* review targets */
 }
 
 .nav-center .nav-link:hover {
