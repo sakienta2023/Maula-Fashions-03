@@ -1,6 +1,6 @@
 // Hero Carousel
 const slider1 = document.querySelector("#glide1");
-if(slider1){
+if (slider1) {
     new Glide(slider1, {
         type: "carousel",
         startAt: 0,
